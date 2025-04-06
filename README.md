@@ -1,4 +1,5 @@
 # Word-Translation-Without-Parallel-Data
+The pre-trained fasttext model for english and hindi langauges are obtained from https://fasttext.cc/docs/en/pretrained-vectors.html
 ## procrustes_method_supervised_keyed_vectors.ipynb :- Implementation for supervised procrustes method using dictionary (paired translated words). Precision@1 and precision@5 using cosine similarity.</br>
 The train set precision values</br>
 precision@1 0.183</br>
